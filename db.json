@@ -1,0 +1,20 @@
+{
+  "servicos": [
+    {
+      "id": "1",
+      "nome": "Serviço teste número 1",
+      "preco": 300,
+      "descricao": "Descrição do serviço teste número 1."
+    }
+  ],
+  "contratados": [
+    {
+      "id": "8f6d",
+      "nomeCompleto": "Elane Alencar",
+      "email": "teste@gmail.com",
+      "telefone": "1199999999",
+      "servicoId": "1",
+      "servicoNome": "Serviço teste número 1"
+    }
+  ]
+}
